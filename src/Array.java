@@ -12,7 +12,7 @@ public class Array {
 //        namesOfMonths[8] = "September";
 //        namesOfMonths[9] = "October";
 //        namesOfMonths[10] = "November";
-//      //  namesOfMonths[11] = "December";
+//        namesOfMonths[11] = "December";
 //
 //        for (int i = 0; i < namesOfMonths.length; i++){
 //            System.out.print(namesOfMonths[i]);
