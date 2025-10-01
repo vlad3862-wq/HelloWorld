@@ -15,6 +15,7 @@ public class DzV2 {
             oddnumbers[count] = numbers[k];
             count++;
 
+
             }
 
         }
