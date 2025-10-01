@@ -14,6 +14,7 @@ public class DzV2 {
             if(k % 2 == 0){
             oddnumbers[count] = numbers[k];
             count++;
+
             }
 
         }
