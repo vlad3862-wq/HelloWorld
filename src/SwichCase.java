@@ -126,6 +126,8 @@ public class SwichCase {
             case "November":
                 System.out.println("Autumn");
                 break;
+            default:
+                System.out.println("Это не месяц");
         }
     }
 }
